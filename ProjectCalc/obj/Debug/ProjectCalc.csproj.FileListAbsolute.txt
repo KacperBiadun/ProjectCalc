@@ -1,0 +1,10 @@
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\bin\Debug\ProjectCalc.exe.config
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\bin\Debug\ProjectCalc.exe
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\bin\Debug\ProjectCalc.pdb
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\obj\Debug\ProjectCalc.Form1.resources
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\obj\Debug\ProjectCalc.Properties.Resources.resources
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\obj\Debug\ProjectCalc.csproj.GenerateResource.cache
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\obj\Debug\ProjectCalc.exe
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\obj\Debug\ProjectCalc.pdb
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\obj\Debug\ProjectCalc.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\ProjectCalc\ProjectCalc\obj\Debug\ProjectCalc.csproj.AssemblyReference.cache
